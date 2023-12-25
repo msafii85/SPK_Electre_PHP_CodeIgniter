@@ -1,2 +1,3 @@
 # SPK Electre
-Sistem Pendukung Keputusan dengan menggunakan metode Electre
+Sistem Pendukung Keputusan dengan metode Electre
+menggunakan PHP dan CodeIgniter
