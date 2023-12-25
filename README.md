@@ -1,2 +1,2 @@
-# spk.electre
-sistem pendukung keputusan dengan menggunakan metode electre
+# SPK Electre
+Sistem Pendukung Keputusan dengan menggunakan metode Electre
